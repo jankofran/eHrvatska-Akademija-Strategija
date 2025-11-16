@@ -1,4 +1,5 @@
 # Temelj Strategije
+> Ovaj dokument je dio eHrvatska Akademije.
 
 Version: 1.0  
 Last updated: 2025-0216
