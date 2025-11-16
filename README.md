@@ -35,10 +35,10 @@ eHrvatska-Akademija-Strategija/
 │   ├── OKR-KPI-Framework.md                                         
 │   └── SWOT-PESTLE-Analiza.md                                         
 │
-├── 3-Drzavna-Strategija/
-│   ├── eHR-Drzavna-Strategija.md
-│   └── RLHR-Drzavna-Strategija.md
-│
+├── 3-Drzavna-Strategija/                                                     
+│   ├── eHR-Drzavna-Strategija.md                                                     
+│   └── RLHR-Drzavna-Strategija.md                                                     
+│                                                                                                          
 ├── 4-Diplomacija-i-Medunarodni-Odnosi/
 │   ├── Diplomacija-Core-Principles.md
 │   ├── eHR-CODE-Strategija.md
