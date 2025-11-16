@@ -6,7 +6,7 @@ eHrvatska-Akademija-Strategija/
 ├── 0-Temelj/                                         
 │   └── Temelj-Strategije.md                                         
 │
-├── 1-Vizija-Misija-Vrijednosti/
+├── 1-Vizija-Misija-Vrijednosti/         
 │   ├── Vizija.md                                         
 │   ├── Misija.md                                         
 │   └── Vrijednosti.md                                         
