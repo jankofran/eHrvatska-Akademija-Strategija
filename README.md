@@ -20,8 +20,8 @@ Struktura:
 
 Repozitorij je zamišljen kao temelj za GitBook dokumentaciju (Akademija Strategije).
 
-eHrvatska-Akademija-Strategija/
-│                                                 
+eHrvatska-Akademija-Strategija/                                                     
+│                                                                                                      
 ├── 0-Temelj/                                         
 │   └── Temelj-Strategije.md                                         
 │
