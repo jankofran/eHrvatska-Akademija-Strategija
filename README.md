@@ -39,10 +39,10 @@ eHrvatska-Akademija-Strategija/
 │   ├── eHR-Drzavna-Strategija.md                                                     
 │   └── RLHR-Drzavna-Strategija.md                                                     
 │                                                                                                          
-├── 4-Diplomacija-i-Medunarodni-Odnosi/
-│   ├── Diplomacija-Core-Principles.md
-│   ├── eHR-CODE-Strategija.md
-│   └── RLHR-Medunarodni-Odnosi.md
-│
-└── README.md
+├── 4-Diplomacija-i-Medunarodni-Odnosi/                                                     
+│   ├── Diplomacija-Core-Principles.md                                                     
+│   ├── eHR-CODE-Strategija.md                                                     
+│   └── RLHR-Medunarodni-Odnosi.md                                                     
+│                                                                                                          
+└── README.md                                                     
 
